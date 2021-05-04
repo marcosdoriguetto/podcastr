@@ -33,6 +33,19 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## 📚 Apprenticeship
+
+Technical content learned:
+
+- SSR, SSG, SPA, ISG
+- Component, State
+- UseEffect, UseState, UseContext
+- ContextAPI
+- Fallback(ISG)
+- Refs
+- Axios
+- Sass
+
 ## 🔥 Preview
 
 [![Deploy with Vercel](https://vercel.com/button)](https://podcastr-marcosdoriguetto.vercel.app/)
